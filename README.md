@@ -21,6 +21,9 @@ I build scalable web apps with React, TypeScript and Postgres. I have a backgrou
 
 ## Featured Projects
 
+- **KejaLink** — Housing rental application connecting landlords with tenants. Features property listings, search filters, user profiles, and messaging system.  
+  GitHub: https://github.com/dmuchai/KejaLink • Live: https://kejalink.co.ke/
+
 - **Rent Management System** — Comprehensive property manager for landlords & tenants  
   GitHub: https://github.com/dmuchai/Rent-Management-System • Live: https://property-manager-ke.vercel.app/
 
