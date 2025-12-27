@@ -1,7 +1,9 @@
 # Hi, I'm Dennis Muchai 👋
 
-Software Engineer • ALX Software Engineering Graduate  
-I build scalable web apps with React, TypeScript and Postgres. I have a background in banking which gives me strong product sense and an eye for reliability.
+AI Automation Engineer | Software Engineer  
+Building intelligent workflows & scalable web apps
+
+I build AI-powered automation workflows and scalable web apps with React, TypeScript and Postgres. My banking background gives me strong product sense and an eye for reliability.
 
 - 🔭 I'm currently building production-ready apps and improving developer workflows.
 - 🌱 I enjoy learning AI integrations and backend reliability patterns.
