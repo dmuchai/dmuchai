@@ -27,10 +27,10 @@ I build AI-powered automation workflows and scalable web apps with React, TypeSc
   GitHub: https://github.com/dmuchai/KejaLink • Live: https://kejalink.co.ke/
 
 - **Rent Management System** — Comprehensive property manager for landlords & tenants  
-  GitHub: https://github.com/dmuchai/Rent-Management-System • Live: https://property-manager-ke.vercel.app/
+  GitHub: https://github.com/dmuchai/Rent-Management-System • Live: https://landee.kejalink.co.ke/
 
 - **MoveEasy / Moving Planner** — AI-assisted moving platform (quotes, bookings)  
-  GitHub: https://github.com/dmuchai/kenya-movers-ai • Live: https://moving-planner-ke.vercel.app/
+  GitHub: https://github.com/dmuchai/kenya-movers-ai • Live: https://movelink.kejalink.co.ke/
 
 - **Grocery E-commerce** — Full-stack store with auth, cart and checkout  
   GitHub: https://github.com/dmuchai/grocery-ecommerce • Live: https://denncathy.co.ke
