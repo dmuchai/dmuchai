@@ -41,7 +41,7 @@ See more on my portfolio: https://dennis-muchai.vercel.app
 
 ## Key Links
 
-- Portfolio — https://dennis-muchai.vercel.app
+- Portfolio — https://dmmuchai.dev/
 - GitHub — https://github.com/dmuchai
 - LinkedIn — https://linkedin.com/in/dennismuchai
 - CV (download) — https://drive.google.com/file/d/1v-t7WJOyEQb2RXw4dndT7Cwz0_bdnlu0/view?usp=sharing
