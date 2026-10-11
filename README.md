@@ -7,7 +7,7 @@ I build AI-powered automation workflows and scalable web apps with React, TypeSc
 
 - 🔭 I'm currently building production-ready apps and improving developer workflows.
 - 🌱 I enjoy learning AI integrations and backend reliability patterns.
-- 📫 Reach me via the contact form on my portfolio (https://dennis-muchai.vercel.app) or connect on LinkedIn.
+- 📫 Reach me via the contact form on my portfolio (https://dmmuchai.dev) or connect on LinkedIn.
 
 ---
 
